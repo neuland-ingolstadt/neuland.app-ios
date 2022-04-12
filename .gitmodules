@@ -1,3 +1,4 @@
 [submodule "neuland.app"]
 	path = neuland.app
 	url = https://github.com/neuland-ingolstadt/neuland.app
+	branch = export-compliant
