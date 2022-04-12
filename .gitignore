@@ -1,0 +1,36 @@
+## User settings
+xcuserdata/
+
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+
+## Swift Package Manager
+Package.pins
+Package.resolved
+*.xcodeproj
+.swiftpm
+.build/
+
+
+## JetBrains
+.idea
+
+
+## MacOS
+.DS_Store
+
+
+# fastlane specific
+**/fastlane/report.xml
+**/fastlane/Preview.html
+**/fastlane/screenshots
+**/fastlane/test_output
